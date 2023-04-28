@@ -3,5 +3,4 @@
 void kitchenFunc(){
   
     // insert loop code here
-
-}                        // end function
+}
